@@ -38,8 +38,6 @@ public class Deck {
 		Collections.shuffle(deckOCards);
 	}
 
-	public void listCards() {
-
-	}
+	
 
 }
