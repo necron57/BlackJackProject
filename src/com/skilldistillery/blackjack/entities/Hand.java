@@ -20,5 +20,5 @@ public abstract class Hand {
 	public String toString() {
 		return handOcards.toString();
 	}
-
+	
 }

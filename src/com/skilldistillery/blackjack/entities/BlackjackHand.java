@@ -15,7 +15,7 @@ public class BlackjackHand extends Hand {
 
 		return totalHandValue;
 	}
-
+	
 	public boolean isBlackJack() {
 		boolean blackJack = getHandValue() == 21;
 		return blackJack;
