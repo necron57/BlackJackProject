@@ -11,5 +11,8 @@ public class Player {
 	public BlackjackHand getHand() {
 		return hand;
 	}
+	public int getHandValue() {
+		return hand.getHandValue();
+	}
 
 }
